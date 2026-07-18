@@ -1,4 +1,5 @@
 # 🌟 Shivanshi Yadav - Portfolio
+![Portfolio Preview](./assets/portfolio-preview.png)
 
 A modern and responsive personal portfolio website built using React, Vite, Tailwind CSS, Framer Motion, and EmailJS.
 
