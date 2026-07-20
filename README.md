@@ -90,7 +90,6 @@ MongoDB • Express.js • React.js • Node.js • Tailwind CSS
 - LLM For Young Developers – Foundational Course
 - Data Structures & Algorithms Training
 - MERN Stack Development Training
-- FutureSkills Prime Certifications
 
 ---
 
