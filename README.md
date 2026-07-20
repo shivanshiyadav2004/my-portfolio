@@ -1,7 +1,8 @@
 # 🌟 Shivanshi Yadav - Portfolio
 
 ![Portfolio Preview](./assets/portfolio-preview.png)
-
+---
+## 🛠️ Tech Stack
 ![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Website-success?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Fast%20Build-purple?style=for-the-badge&logo=vite)
@@ -53,16 +54,6 @@ I enjoy building real-world applications, solving complex problems, and continuo
 
 ---
 
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple?style=for-the-badge&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-cyan?style=for-the-badge&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animations-black?style=for-the-badge&logo=framer)
-![EmailJS](https://img.shields.io/badge/EmailJS-Contact%20Integration-orange?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel)
-
----
 
 ## 📂 Featured Projects
 
